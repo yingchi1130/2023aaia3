@@ -14,6 +14,6 @@ int main()
 		int ans = helper(a,b); //Step03: function
 		if(ans==0) cout << "No carry operation.\n";
 		else if(ans==1) cout << "1 carry operation.\n";
-		else cout << ans << " carry operation.\n";
+		else cout << ans << " carry operations.\n";
 	}//Step02: Output 
 }

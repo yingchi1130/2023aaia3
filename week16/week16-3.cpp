@@ -1,5 +1,5 @@
 //week16-3.cpp 學習計畫 Math 最後1題
-//LeetCode 50. Pow(x, n) 試著用for迴圈
+//LeetCode 50. Pow(x, n) 之前用for迴圈, 但迴圈太多太慢
 class Solution {
 public:
     double helper(double x,long long int n){ //函式呼叫函式
